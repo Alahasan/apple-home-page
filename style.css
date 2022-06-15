@@ -1,0 +1,179 @@
+*{
+margin: 0px;
+padding: 0px;
+box-sizing: border-box;
+}
+
+.navbar1{
+	height: 40px;
+	background: #262833;
+	width: 98.5vw;
+	text-align: center;
+	position: sticky;
+	top: 0px;
+}
+.navbar1 ul{
+	list-style-type:none;
+	
+	
+}
+.navbar1 ul li{
+	padding: 11px;
+	margin-right: 5px;
+	margin-left: 5px;
+	font-weight: 700;
+	color: #fff;
+	text-align: center;
+	display: inline;
+	line-height: 40px;
+	font-size: 12px;
+ }
+ .navbar1 ul li:hover{
+ 	background: #04aa6d;
+
+ }
+.navbar1 a{
+	text-decoration: none;
+	color: #fff ;
+}
+.iphone13{
+	text-align: center;
+	width: 98vw;
+	padding: 70px;
+}
+.iphone13 a{
+	text-decoration: none;
+	color: #000 ;
+	text-align: center;
+}
+.iphone13 a font:hover{
+	text-decoration: underline;
+}
+h1{
+	font-size: 55px;
+}
+h2{
+	font-size: 25px;
+	font-weight: 300;
+}
+h3{
+	font-size: 20px;
+	color: grey;
+	font-weight: 300;
+}
+.boxx{
+	width: 88vw;
+	height: 600px;
+	background: url(Assets/image/iphone13.jpg);
+	background-position: 47%;
+	margin-bottom: 40px;
+
+}
+.iphonese{
+	text-align: center;
+	float: none;
+	background: url(Assets/image/iphonese.jpg);
+	background-position:bottom center ;
+	height: 560px;
+
+}
+.iphonese a{
+	text-decoration: none;
+}
+.iphonese .se{
+	border:2px solid black;
+	 font-size: 40px;
+}
+.box1{
+	
+	width: 88vw;
+	height: 500px;
+	
+	padding: 0;
+	margin: 0;
+}
+.iphoneair{
+	width: 100%;
+	height: 580px;
+	background: url(Assets/image/iphoneair.jpg);
+	float: left;
+	background-position: center;
+	margin-top: 40px;
+}
+.iphoneair .title{
+	margin-left: 100px;
+	padding-top: 100px;
+}
+.iphoneair .title a{
+text-decoration: none;
+}
+.box3{
+	float: left;
+	margin-top: 20px;
+
+}
+.box3 .item{
+	display: grid;
+	grid-template-columns: auto	auto;
+	height: 550px;
+	width: 650px;
+	margin :10px;
+	float: left;
+	text-align: center;
+}
+.display{
+	background: url(Assets/image/display.jpg);
+	background-position: 90%;
+	
+}
+.display a{text-decoration: none;}
+
+.studio a{text-decoration: none;}
+.studio{
+	background: url(Assets/image/studio.jpg);
+	background-position: 55%;
+	
+
+}
+.iphone3
+ a{text-decoration: none;}
+ .iphone3{
+	background: url(Assets/image/iphone-13.jpg);
+	background-position: 50%;
+	height: 100%;
+	width: 640px;
+}
+.watch a{text-decoration: none;}
+.watch{
+	background: url(Assets/image/watch.jpg);
+	background-position: 50%;
+	height: 100%;
+	width: 640px;
+}
+.card a{text-decoration: none;}
+.card{
+	background: url(Assets/image/card.jpg);
+	background-position: 50%;
+	height: 100%;
+	width: 640px;
+}
+.promo{
+	background: url(Assets/image/promo.jpg);
+	background-position: 50%;
+	height: 100%;
+	width: 640px;
+}
+.text{
+	text-align: justify;
+	width: 100%;
+	padding left: 150px;
+	padding-right: 150px;
+	padding-top: 200px;
+	font-size: 14px;
+	padding: 50px;
+}
+.footer{
+	padding: 2px;
+	margin-bottom: 20px;
+	text-align: center;
+}
